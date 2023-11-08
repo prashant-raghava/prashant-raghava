@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/1d074c_2fe1bf1554a349e8b5259f26ebeab0fd~mv2.gif)]
+![logo](https://static.wixstatic.com/media/1d074c_2fe1bf1554a349e8b5259f26ebeab0fd~mv2.gif)
 <h1 align="center">Hi 👋, I'm Prashant Raghava</h1>
 <h3 align="center">A passionate Cloud Engineer working in USA</h3>
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ZkcqDAhYRqfVDrVc6">
