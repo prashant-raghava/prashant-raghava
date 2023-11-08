@@ -1,7 +1,7 @@
 [![MasterHead](https://static.wixstatic.com/media/1d074c_2fe1bf1554a349e8b5259f26ebeab0fd~mv2.gif)]
 <h1 align="center">Hi 👋, I'm Prashant Raghava</h1>
 <h3 align="center">A passionate Cloud Engineer working in USA</h3>
-<img align="right" alt="" width="400" src="https://images.app.goo.gl/ZkcqDAhYRqfVDrVc6">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ZkcqDAhYRqfVDrVc6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-raghava&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-raghava" /> </p>
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **....Meditatation....**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
