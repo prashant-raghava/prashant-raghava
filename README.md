@@ -19,12 +19,12 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://www.devopsbaba.com/hive-how-to-copy-all-data-table-from-one-database-to-other-database/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to copy all (Hive) data/table from One Database to other Database</b></a><br/><i>Learn about Hive Database!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+  <li><a href="https://www.devopsbaba.com/hive-how-to-copy-all-data-table-from-one-database-to-other-database/"><b> How to copy all (Hive) data/table from One Database to other Database</b></a><br/><i>Learn about Hive Database!.</i></li>
+  <li><a href="https://www.devopsbaba.com/rename-hive-database/"><b> How to rename Hive DB</b></a><br/><i>A good tutorial for Hive DB remaning </i></li>
+  <li><a href="https://www.devopsbaba.com/apache-kafka-cluster-in-cloudera/"><b> Create Apache Kafka Cluster in Cloudera</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://www.devopsbaba.com/enable-cloudera-auto-tls-through-api/"><b>Implement Cloudera AUTO-TLS through API</b></a><br/><i>Learn and explore Cloudera API and enable TLS</i></li>
+  <li><a href="https://www.devopsbaba.com/blacklisting-in-cloudera-with-spark/"><b>How backlisting work in Cloudera</b></a><br/><i>Explore about cloudera backlisting with Spark</i></li>
+  <li><a href="https://www.devopsbaba.com/hive-replication-to-s3/"><b>How to replicate data from cloudera to AWS S3</b></a><br/><i>Learn about how replication work in Cloudera  and move your data to Aws S3</i></li>
 </ul>
 
 ## 🔖 My Statistics
