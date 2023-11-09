@@ -3,7 +3,8 @@
 <h3 align="center"> A Cloud & Infrastructure Engineer 💻☁️ | Specializing in designing, implementing, and managing robust cloud-based and on-premise infrastructures. Experienced in leveraging various cloud platforms including AWS, Azure, and GCP, as well as traditional IT infrastructure systems. Passionate about optimizing systems for scalability, performance, and security. Always learning and embracing new technologies. Check out my repositories for some of the projects I've worked on. Let's connect and innovate together! #CloudComputing #Infrastructure #DevOps #Innovation </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-raghava&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-raghava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-raghava&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-raghava" /> <img
+src="https://img.shields.io/github/followers/prashant-raghava?logo=github&style=for-the-badge&color=0e75b6&style=flat" />
 
 - 🌱 I’m currently learning **Design Patterns, Cloud Architecture, AI**
 
@@ -23,3 +24,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-raghava&show_icons=true&locale=en" alt="prashant-raghava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-raghava&" alt="prashant-raghava" /></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/prashant-raghava"><img src="https://github-readme-stats.vercel.app/api?username=prashant-raghava&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="prashant-raghava's GitHub stats" /></a>
+
+<a href="http://www.github.com/prashant-raghava"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-raghava&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/prashant-raghava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashant-raghava&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/prashant-raghava" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-raghava&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
