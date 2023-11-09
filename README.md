@@ -35,6 +35,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-raghava&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
 </a></p>
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/prashant-raghava" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/prashantraghava/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@prashantraghav12" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=prashant-raghava&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
