@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Design Patterns, Cloud Architecture, AI**
 
-- 💬 Ask me about **BigData, Cloud, Automation, Cloudera**
+- 💬 Ask me about **Designing scalable, secure, and efficient cloud infrastructure on platforms like AWS, Azure, and GCP.**
 
-- ⚡ Fun fact **....Meditatation....**
+- ⚡ Fun fact **I believe in continuous learning and improvement. Every day is a school day in the world of cloud engineering! and I love a good challenge. The more complex the problem, the more fun I have solving it! 🧩🎓**
 
 
 <p align="left">
