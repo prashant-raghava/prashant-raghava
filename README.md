@@ -47,4 +47,4 @@
 [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
 
 ## 🔖 My GitHub Contribution
-![Snake animation](https://github.com/{{prashant-raghava}}/{{prashant-raghava}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/prashant-raghava/prashant-raghava/blob/output/github-contribution-grid-snake.svg)
